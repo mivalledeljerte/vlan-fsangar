@@ -3,11 +3,12 @@
 VLAN. Fréderic Sánchez García
 [VLAN en github](https://github.com/mivalledeljerte/vlan-fsangar)
 
-**italic**
+**Elements**
 
-* elemento1
-* subelemento1
+* computers
+* switches
+* network
 
-Splash | Login
+Schema | Phisical
 -------|--------
 ![](img/vlan.jfif) | ![](img/vlan2.jfif)
